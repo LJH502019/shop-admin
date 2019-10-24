@@ -10,6 +10,19 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
+  *{
+    padding: 0;
+    margin: 0;
+  }
+  body,html {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    .app {
+      width: 100%;
+      height:100%
+    }
+  }
 
 </style>
